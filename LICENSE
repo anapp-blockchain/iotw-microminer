@@ -1,0 +1,339 @@
+LICENSE AGREEMENT
+
+This License Agreement (“Agreement”) is a legal agreement between AnApp Blockchain Technologies Limited (“AnApp Blockchain”), a company incorporated in Hong Kong with limited liabilities, and the Licensee for the license of the Licensed Software (as defined below). 
+
+WHEREAS:
+
+-	AnApp Blockchain is a Hong Kong based technology company that has invented a new blockchain system architecture and mining algorithm called the “Proof of Assignment”, “Micro-Mining” and “Block Witnessing Protocol”, a blockchain-enabled IoT platform that allows cost-effective IoT connectivity and big data cloud hosting, turnkey IoT development, instant payment system, and energy-efficient “Green” micro-mining on IoT devices.
+
+-	Licensee wishes to use the Licensed Software for the purpose of developing and distributing Applications and/or Devices; and
+
+-	AnApp Blockchain is willing to grant the Licensee a right to use Licensed Software for such purpose pursuant to term and conditions of this Agreement.
+
+NOW, THEREFORE, THE PARTIES HEREBY AGREE AS FOLLOWS:
+
+Capitalized terms used herein shall have the same meaning as defined in the “Definition” section below unless otherwise stated.
+
+1. OWNERSHIP
+
+1.1 Ownership of the Licensed Software
+
+The Licensed Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. 
+
+Except as provided in Clause 1.2, all Intellectual Property Rights in relation to the Licensed Software are and shall remain the exclusive property of AnApp Blockchain or its licensors respectively and the Licensee shall have no right in the Licensed Software except as licensed to use the Licensed Software in accordance with the terms and conditions herein.  
+
+1.2 Modifications on the Licensed Software
+
+Licensee may create Modifications which may break the source or binary compatibility with the Licensed Software. To the extent that Modifications so breaks source or binary compatibility with the Licensed Software, Licensee acknowledges that AnApp Blockchain's ability to provide Support may be prevented or limited and Licensee's ability to make use of Updates may be restricted.
+
+Licensee may, at its sole and absolute discretion, submit the Modifications to AnApp Blockchain (“Submitted Modifications”) in connection with Licensee’s Support request, service request or otherwise. In the event Licensee does so, then, Licensee shall be deemed to have granted AnApp Blockchain a sub-licensable, assignable, irrevocable, perpetual, worldwide, non-exclusive, royalty-free and fully paid-up license to reproduce, adapt, translate, modify, and prepare derivative works of, publicly display, publicly perform, sub-license, make available and distribute such Modifications as AnApp Blockchain sees fit at its sole and absolute discretion.
+
+2. LICENSES GRANTED
+
+2.1 Development of Licensed Software
+
+Subject to the terms of this Agreement, AnApp Blockchain grants to the Licensee a personal, worldwide, non-exclusive, non-transferable, non-sub-licensable license, valid for the License Term, to use, modify and copy the Licensed Software by Designated Users on the Development Platforms for the sole purposes of designing, developing, demonstrating and testing Application(s) and/or Devices, and to provide thereto related support and other related services to end-user Customers.
+
+Licensee may install copies of the Licensed Software on an unlimited number of computers provided that (i) only the Designated Users may use the Licensed Software, and (ii) all Designated Users must have a valid Development License to use Licensed Software.  
+
+Licensee may at any time designate another Qualified User to replace a then-current Designated User by notifying AnApp Blockchain in writing, provided that any Qualified User so designated may only be replaced six months after such designation.
+
+2.2 Distribution of Applications
+
+Subject to the terms of this Agreement, AnApp Blockchain grants to the Licensee a personal, worldwide, non-exclusive, non-transferable license, valid for the License Term, to
+
+i)	distribute, by itself or through its Contractors, Redistributables as installed, incorporated or integrated into Applications for execution on the Deployment Platforms, and
+
+ii)	grant sublicenses to Redistributables, as distributed hereunder, for Customers solely for Customer’s internal use and to the extent necessary in order for the Customers to use the Applications for their respective intended purposes.
+
+provided that the Licensee having paid the agreed Development Licenses from AnApp Blockchain before distributing any Redistributables to Customers.
+
+2.3 Distribution of Devices
+
+Subject to the terms of this Agreement, AnApp Blockchain grants to the Licensee a personal, worldwide, non-exclusive, non-transferable license, valid for the License Term, to
+
+i)	distribute, by itself or through one or more tiers of Contractors, Redistributables as installed, incorporated or integrated, or intended to be installed, incorporated or integrated into Devices for execution on the Deployment Platforms, and
+
+ii)	grant sublicenses to Redistributables, as distributed hereunder, for Customers solely for Customer’s internal use and to the extent necessary in order for the Customers to use the Devices for their respective intended purposes;
+
+provided that the Licensee having purchased and paid the appropriate amount of Development Licenses for AnApp Blockchain for Device Creation product and Distribution Licenses from AnApp Blockchain before distributing any Redistributables to Customers.
+
+2.4 Further Requirements
+
+The licenses granted above in this Section 2 by AnApp Blockchain to Licensee are conditional and subject to Licensee's compliance with the following terms:
+
+i)	Licensee shall not remove or alter any copyright, trademark or other proprietary rights notice contained in any portion of the Licensed Software;
+
+ii)	Applications must add primary and substantial functionality to the Licensed Software;
+
+iii)	Applications may not pass on functionality which in any way makes it possible for others to create software with the Licensed Software; provided however that Licensee may use the Licensed Software's scripting functionality solely in order to enable scripting, themes and styles that augment the functionality and appearance of the Application(s) without adding primary and substantial functionality to the Application(s);
+
+iv)	Applications must not compete with the Licensed Software;
+
+v)	Licensee shall not use AnApp Blockchain's or any of its suppliers' names, logos, or trademarks to market Applications, except that Licensee may use “Built with AnApp Blockchain” logo   or such other logo as designated by AnApp Blockchain from time to time to indicate that Application(s) was developed using the Licensed Software;
+
+vi)	Licensee shall not distribute, sublicense or disclose source code of Licensed Software to any third party (provided however that Licensee may appoint employee(s) of Contractors as Designated Users to use Licensed Software in accordance with the terms of this Agreement). Such right may be available for the Licensee subject to a separate software development kit (“SDK”) license agreement to be concluded with AnApp Blockchain;
+
+vii)	Licensee shall not grant the Customers a right to (i) make copies of the Redistributables except when and to the extent required to use the Applications and/or Devices for their intended purpose, (ii) modify the Redistributables or create derivative works thereof, (iii) decompile, disassemble or otherwise reverse engineer Redistributables, or (iv) redistribute any copy or portion of the Redistributables to any third party, except as part of the onward sale of the Device on which the Redistributables are installed;
+
+viii)	Licensee shall not and shall cause that its Affiliates or Contractors shall not a) in any way combine, incorporate or integrate Licensed Software with, or use Licensed Software for creation of, any software created with or incorporating Open Source AnApp Blockchain, or b) incorporate or integrate Applications into a hardware device or product other than a Device, unless Licensee has received an advance written permission from AnApp Blockchain to do so.  Absent such written permission, any and all distribution by the Licensee during the Term of a hardware device or product a) which incorporate or integrate any part of Licensed Software or Open Source AnApp Blockchain; or b) where the main user interface or substantial functionality is provided by software built with Licensed Software or Open Source AnApp Blockchain or otherwise depends on the Licensed Software or Open Source AnApp Blockchain, shall be considered as a Device distribution under this Agreement and dependent on compliance thereof (including but not limited to obligation to pay applicable License Fees for such distribution). 
+
+ix)	Licensee shall cause all of its Affiliates and Contractors entitled to make use of the licenses granted under this Agreement, to be contractually bound to comply with the relevant terms of this Agreement and not to use the Licensed Software beyond the terms hereof and for any purposes other than operating within the scope of their services for Licensee. Licensee shall be responsible for any and all actions and omissions of its Affiliates and Contractors relating to the Licensed Software and use thereof (including but not limited to payment of all applicable License Fees);
+
+x)	Except when and to the extent explicitly provided in this Section 2, Licensee shall not transfer, publish, disclose, display or otherwise make available the Licensed Software;; and
+
+xi)	Licensee shall not attempt or enlist a third party to conduct or attempt to conduct any of the above.
+
+Above terms shall not be applicable if and to the extent they conflict with any mandatory provisions of any applicable laws.
+
+Any use of Licensed Software beyond the provisions of this Agreement is strictly prohibited and requires an additional license from AnApp Blockchain.
+
+3. THIRD PARTY SOFTWARE
+
+The Licensed Software may provide links to third party libraries or code (collectively "Third Party Software") to implement various functions. Third Party Software does not comprise part of the Licensed Software. In some cases, access to Third Party Software may be included in the Licensed Software.  Licensee acknowledges that use or distribution of Third Party Software is in all respects subject to applicable license terms of applicable third party right holders.
+
+4. PRE-RELEASE CODE
+
+The Licensed Software may contain pre-release code and functionality marked or otherwise stated as “Technology Preview”, “Alpha”, “Beta” or similar designation. Such pre-release code may be present in order to provide experimental support for new platforms or preliminary versions of one or more new functionalities. The pre-release code may not be at the level of performance and compatibility of a final, generally available, product offering of the Licensed Software. The pre-release parts of the Licensed Software may not operate correctly, may contain errors and may be substantially modified by AnApp Blockchain prior to the first commercial product release, if any. AnApp Blockchain is under no obligation to make pre-release code commercially available, or provide any Support or Updates relating thereto. AnApp Blockchain assumes no liability whatsoever regarding any pre-release code, but any use thereof is exclusively at Licensee’s own risk and expense.
+
+5. LIMITED WARRANTY AND WARRANTY DISCLAIMER LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+5.1 Limitation of Liability
+
+AnApp Blockchain hereby represents and warrants that it has the power and authority to grant the rights and licenses granted to Licensee under this Agreement.
+
+Except as set forth above, the Licensed Software is licensed to Licensee "as is" and Licensee’s exclusive remedy and AnApp Blockchain’s entire liability for errors in the Licensed Software shall be limited, at AnApp Blockchain’s option, to correction of the error, replacement of the Licensed Software or return of the applicable fees paid for the defective Licensed Software for the time period during which the License is not able to utilize the Licensed Software under the terms of this Agreement.
+
+To the maximum extent permitted by applicable Law, AnApp Blockchain on behalf of itself and its Licensors, suppliers and affiliates, disclaims all other warranties, express or implied, including, but not limited to, any implied warranties of merchantability, fitness for a particular purpose, title and non-infringement with regard to the licensed software.  AnApp Blockchain does not warrant that the licensed software will satisfy licensee’s requirements or that it will operate without defect or error or that the operation thereof will be uninterrupted.  All use of and reliance on the licensed software is at the sole risk of and responsibility of licensee.
+
+Except for cases of gross negligence or intentional misconduct and to the extent permitted by applicable law, in no event shall AnApp Blockchain be liable to the Licensee for any loss of profit, loss of data, loss of business or goodwill or any other indirect, special, consequential, incidental or punitive cost, damages or expense of any kind, howsoever arising under or in connection with this agreement, and in no event shall AnApp Blockchain’s total aggregate liability under this agreement exceed the aggregate license fees paid or payable to the AnApp Blockchain hereunder during the period of twelve (12) months immediately preceding the event resulting in such liability.
+
+The provisions of this section 5 allocate the risks under this agreement between AnApp Blockchain and Licensee and the parties have relied upon the limitations set forth herein in determining whether to enter into this agreement.
+
+5.2 Licensee´s Indemnification
+
+Licensee shall indemnify and hold harmless AnApp Blockchain from and against any claim, injury, judgment, settlement, loss or expense, including attorneys' fees related to: (a) Licensee’s misrepresentation in connection with AnApp Blockchain or the Licensed Software or breach of this Agreement, (b) the Application or Device (except where such cause of liability is solely attributable to the Licensed Software).
+
+6. SUPPORT, UPDATES AND ONLINE SERVICES
+
+Upon due payment of the agreed License Fees the Licensee will be eligible to receive Support and Updates and to use the Online Services during the License Term, provided, however, that in the event the License Term is longer than 36 months, Support is provided only for the first 12 months, unless the Parties specifically otherwise agree.
+
+Unless otherwise decided by The Company at its sole and absolute discretion, Upgrades will not be included in the Support but may be available subject to additional fees.  
+
+From time to time AnApp Blockchain may change the Support terms, provided that during the respective ongoing License Term the level of Support provided by AnApp Blockchain may not be reduced without the consent of the Licensee.
+
+Unless otherwise agreed, AnApp Blockchain shall not be responsible for providing any service or support to Customers.
+
+7. CONFIDENTIALITY
+
+7.1 	Each Party acknowledges that during the Term of this Agreement each Party may receive information about the other Party's business, business methods, business plans, customers, business relations, technology, and other information, including the terms of this Agreement, that is confidential and of great value to the other Party, and the value of which would be significantly reduced if disclosed to third parties (“Confidential Information”). Accordingly, when a Party (the “Receiving Party”) receives Confidential Information from the other Party (the “Disclosing Party”), the Receiving Party shall only disclose such information to employees and Contractors on a need to know basis, and shall cause its employees and employees of its Affiliates to: (i) maintain any and all Confidential Information in confidence; (ii) not disclose the Confidential Information to a third party without the Disclosing Party's prior written approval; and (iii) not, directly or indirectly, use the Confidential Information for any purpose other than for exercising its rights and fulfilling its responsibilities pursuant to this Agreement. Each Party shall take reasonable measures to protect the Confidential Information of the other Party, which measures shall not be less than the measures taken by such Party to protect its own confidential and proprietary information.
+
+7.2	Obligation of confidentiality shall not apply to information that (i) is or becomes generally known to the public through no act or omission of the Receiving Party; (ii) was in the Receiving Party's lawful possession prior to the disclosure hereunder and was not subject to limitations on disclosure or use; (iii) is developed independently by employees or Contractors of the Receiving Party or other persons working for the Receiving Party who have not had access to the Confidential Information of the Disclosing Party, as proven by the written records of the Receiving Party; (iv) is lawfully disclosed to the Receiving Party without restrictions, by a third party not under an obligation of confidentiality; or (v) the Receiving Party is legally compelled to disclose, in which case the Receiving Party shall notify the Disclosing Party of such compelled disclosure and assert the privileged and confidential nature of the information and cooperate fully with the Disclosing Party to limit the scope of disclosure and the dissemination of disclosed Confidential Information to the minimum extent necessary.
+
+7.3	Upon termination of this Agreement or end of the License Term, the Receiving Party shall destroy all Confidential Information of the other party that it has received.
+
+7.4	The obligations under this Section 7 shall survive despite termination or end of the term of this Agreement.
+
+8. FEES, DELIVERY AND PAYMENT
+
+8.1 License Fees
+
+License Fees are described in AnApp Blockchain’s standard price list, quote or Purchase Order confirmation, as the case may be.
+
+The License Fees shall not be refunded or claimed as a credit in any event or for any reason whatsoever.
+
+8.2 Ordering Licenses
+
+Licensee may purchase Development Licenses and Distribution Licenses pursuant to agreed pricing terms or, if no specific pricing terms have been agreed upon, at AnApp Blockchain's standard pricing terms applicable at the time of purchase.
+
+Licensee shall submit all purchase orders for Development Licenses and Distribution Licenses to AnApp Blockchain by email or any other method acceptable to AnApp Blockchain (each such order is referred to herein as a “Purchase Order”) for confirmation, whereupon the Purchase Order shall become binding between the Parties.
+
+8.3 Distribution License Packs
+
+Unless otherwise agreed, Distribution Licenses shall be purchased by way of Distribution License Packs.
+
+Upon due payment of the ordered Distribution License Pack(s), the Licensee will have an account of Distribution Licenses available for installing, bundling or integrating (all jointly “installing”) the Redistributables with the Devices or for otherwise distributing the Redistributables in accordance with this Agreement.
+
+Each time Licensee “installs” or distributes a copy of Redistributables, then one Distribution License is used, and Licensee’s account of available Distribution Licenses is decreased accordingly.
+
+Licensee may “install” copies of the Redistributables so long as Licensee has Distribution Licenses remaining on its account.
+
+Redistributables will be deemed to have been “installed” into a Device when one of the following circumstances shall have occurred: a) the Redistributables have been loaded onto the Device and used outside of the Licensee’s premises or b) the Device has been fully tested and placed into Licensee's inventory (or sold) for the first time (i.e., Licensee will not be required to use (or pay for) more than one Distribution License for each individual Device, e.g. in a situation where a Device is returned to Licensee's inventory after delivery to a distributor or sale to a Customer). In addition, if Licensee includes a back-up copy of the Redistributables on a CD-ROM or other storage medium along with the product, that backup copy of the Redistributables will not be deemed to have been “installed” and will not require an additional Distribution License. 
+
+8.4 Payment Terms
+
+License Fees and any other charges under this Agreement shall be paid by Licensee no later than thirty (30) days from the date of the applicable invoice from AnApp Blockchain.
+
+AnApp Blockchain will submit an invoice to Licensee after the date of this Agreement and/or after AnApp Blockchain receives a Purchase Order from Licensee.
+
+A late payment charge of the lower of (a) one percent per month; or (b) the interest rate stipulated by applicable law, shall be charged on any unpaid balances that remain past due.
+
+AnApp Blockchian shall have the right to suspend, terminate or withhold grants of all rights to the Licensed Software hereunder, including but not limited to the Developer License, Distribution License, and Support, should Licensee fail to make payment in timely fashion. 
+
+8.5 Taxes
+
+All License Fees and other charges payable hereunder are gross amounts but exclusive of any value added tax, use tax, sales tax and other taxes, duties or tariffs (“Taxes”). Such applicable Taxes shall be paid by Licensee, or, where applicable, in lieu of payment of such Taxes, Licensee shall provide an exemption certificate to AnApp Blockchain and any applicable authority.
+
+9 RECORD-KEEPING AND REPORTING OBLIGATIONS; AUDIT RIGHTS
+
+9.1 Licensee’s Record-keeping
+
+Licensee shall at all times maintain accurate and up-to-date written records of Licensee’s activities related to the use of Licensed Software and distribution of Redistributables. The records shall be adequate to determine Licensee’s compliance with the provisions of this Agreement and to demonstrate the number of Designated Users and Redistributables distributed by Licensee. The records shall conform to good accounting practices reasonably acceptable to AnApp Blockchain.
+
+Licensee shall, within thirty (30) days from receiving AnApp Blockchain’s request to that effect, deliver to AnApp Blockchain a report on Licensee’s usage of Licensed Software, such report to contain information, in sufficient detail, on (i) amount of users working with Licensed Software, (ii) copies of Redistributables distributed by Licensee during that calendar quarter, (iii) number of undistributed copies of Redistributables and corresponding number of unused Distribution Licenses remaining on Licensee’s account, and (iv) any other information as AnApp Blockchain may reasonably require from time to time.
+
+9.2 AnApp Blockchain’s Audit Rights
+
+AnApp Blockchain or an independent auditor acting on behalf of AnApp Blockchain’s, may, upon at least five (5) business days’ prior written notice and at its expense, audit Licensee with respect to the use of the Redistributables, but not more frequently than once during each 6-month period. Such audit may be conducted by mail, electronic means or through an in-person visit to Licensee’s place of business. Any such in-person audit shall be conducted during regular business hours at Licensee's facilities and shall not unreasonably interfere with Licensee's business activities. AnApp Blockchain or the independent auditor acting on behalf of AnApp Blockchain shall be entitled to inspect Licensee’s Records. All such Licensee’s Records and use thereof shall be subject to an obligation of confidentiality under this Agreement.
+
+If an audit reveals that Licensee is using the Licensed Software beyond scope of the licenses Licensee has paid for, Licensee agrees to immediately pay AnApp Blockchain any amounts owed for such unauthorized use. 
+
+In addition, in the event the audit reveals a material violation of the terms of this Agreement (underpayment of more than 5% of License Fees shall always be deemed a material violation for purposes of this section), then the Licensee shall indemnify AnApp Blockchain's cost of conducting such audit.
+
+10 TERM AND TERMINATION
+
+10.1 Term
+
+This Agreement shall enter into force upon due acceptance by both Parties and remain in force for as long as there is any Development License(s) in force (“Term”), unless and until terminated pursuant to the terms of this Section 10.
+
+10.2 Termination by AnApp Blockchain
+
+AnApp Blockchain shall have the right to terminate this Agreement upon thirty (30) days prior written notice if the Licensee is in material breach of any obligation of this Agreement and fails to remedy such breach within such notice period.
+
+10.3 Mutual Right to Terminate
+
+Either Party shall have the right to terminate this Agreement immediately upon written notice in the event that the other Party becomes insolvent, files for any form of bankruptcy, makes any assignment for the benefit of creditors, has a receiver, administrative receiver or officer appointed over the whole or a substantial part of its assets, ceases to conduct business, or an act equivalent to any of the above occurs under the laws of the jurisdiction of the other Party.
+
+10.4 Parties´ Rights and Duties upon Termination
+
+Upon expiry or termination of the Agreement Licensee shall cease and shall cause all Designated Users (including those of its Affiliates’ and Contractors’) to cease using the Licensed Software and distribution of the Redistributables under this Agreement. 
+Notwithstanding the above, in the event the Agreement expires or is terminated:
+
+i) as a result of AnApp Blockchain choosing not to renew the Development License(s) as set forth in Section 3.1, then all valid licenses possessed by the Licensee at such date shall be extended to be valid in perpetuity under the terms of this Agreement and Licensee is entitled to purchase additional licenses as set forth in Section 8.2; or
+
+ii) for reason other than by AnApp Blockchain pursuant to item (i) above or pursuant to Section 10.2, then the Licensee is entitled, for a period of six (6) months after the effective date of termination, to continue distribution of Devices under the Distribution Licenses paid but unused at such effective date of termination.
+
+Upon any such termination the Licensee shall destroy or return to AnApp Blockchain all copies of the Licensed Software and all related materials and will certify the same to AnApp Blockchain upon its request, provided however that Licensee may retain and exploit such copies of the Licensed Software as it may reasonably require in providing continued support to Customers.
+
+Expiry or termination of this Agreement for any reason whatsoever shall not relieve Licensee of its obligation to pay any License Fees accrued or payable to AnApp Blockchain prior to the effective date of termination, and Licensee shall immediately pay to AnApp Blockchain all such fees upon the effective date of termination.  Termination of this Agreement shall not affect any rights of Customers to continue use of Applications and Devices (and therein incorporated Redistributables).
+
+10.5 Extension in case of bankruptcy
+In the event AnApp Blockchain is declared bankrupt under a final, non-cancellable decision by relevant court of law, and this Agreement is not, at the date of expiry of the Development License(s) pursuant to Section 2.1, assigned to party, who has assumed AnApp Blockchain’s position as a legitimate licensor of Licensed Software under this Agreement, then all valid licenses possessed by the Licensee at such date of expiry, and which the Licensee has not notified for expiry, shall be extended to be valid in perpetuity under the terms of this Agreement.
+
+11. GOVERNING LAW AND JURISDICITON
+
+This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the law of Hong Kong SAR. The courts of Hong Kong SAR shall have exclusive jurisdiction to settle any dispute or claim that arises out of, or in connection with, this Agreement (including non-contractual disputes or claims).
+
+12. GENERAL PROVISIONS
+
+12.1 No Assignment
+
+Licensee shall not be entitled to assign or transfer all or any of its rights, benefits and obligations under this Agreement without the prior written consent of AnApp Blockchain, which shall not be unreasonably withheld or delayed. AnApp Blockchain shall be entitled to freely assign or transfer any of its rights, benefits or obligations under this Agreement.
+
+12.2 No Third Party Representations
+
+Licensee shall make no representations or warranties concerning the Licensed Software on behalf of AnApp Blockchain.  Any representation or warranty Licensee makes or purports to make on AnApp Blockchain’s behalf shall be void as to AnApp Blockchain.
+
+12.3 Surviving Sections
+
+Any terms and conditions that by their nature or otherwise reasonably should survive termination of this Agreement shall so be deemed to survive.   
+
+12.4 Entire Agreement
+
+This Agreement, the exhibits hereto, the License Certificate and any applicable Purchase Order constitute the complete agreement between the Parties and supersedes all prior or contemporaneous discussions, representations, and proposals, written or oral, with respect to the subject matters discussed herein. 
+
+In the event of any conflict or inconsistency between this Agreement and any Purchase Order, the terms of this Agreement will prevail over the terms of the Purchase Order with respect to such conflict or inconsistency.
+
+Parties specifically acknowledge and agree that this Agreement prevails over any click-to-accept or similar agreements the Designated Users may need to accept online upon download of the Licensed Software, as may be required by AnApp Blockchain’s applicable processes relating to Licensed Software.
+
+12.5 Modifications
+
+No modification of this Agreement shall be effective unless contained in a writing executed by an authorized representative of each Party. No term or condition contained in Licensee's Purchase Order shall apply unless expressly accepted by AnApp Blockchain in writing.
+
+12.6 Force Majeure
+
+Except for the payment obligations hereunder, neither Party shall be liable to the other for any delay or non-performance of its obligations hereunder in the event and to the extent that such delay or non-performance is due to an event of act of God, terrorist attack or other similar unforeseeable catastrophic event that prevents either Party for fulfilling its obligations under this Agreement and which such Party cannot avoid or circumvent (“Force Majeure Event”).  If the Force Majeure Event results in a delay or non-performance of a Party for a period of three (3) months or longer, then either Party shall have the right to terminate this Agreement with immediate effect without any liability (except for the obligations of payment arising prior to the event of Force Majeure) towards the other Party. 
+
+12.7 Notices
+
+Any notice given by one Party to the other shall be deemed properly given and deemed received if specifically acknowledged by the receiving Party in writing or when successfully delivered to the recipient by hand, fax, or special courier during normal business hours on a business day to the addresses specified for each Party on the signature page. Each communication and document made or delivered by one Party to the other Party pursuant to this Agreement shall be in the English language.
+
+12.8 Export Control
+
+Licensee acknowledges that the Redistributables may be subject to export control restrictions under the applicable laws of respective countries. Licensee shall fully comply with all applicable export license restrictions and requirements as well as with all laws and regulations relating to the Redistributables and exercise of licenses hereunder and shall procure all necessary governmental authorizations, including without limitation, all necessary licenses, approvals, permissions or consents, where necessary for the re-exportation of the Redistributables, Applications and/or Devices.
+
+12.9 No Implied License
+
+There are no implied licenses or other implied rights granted under this Agreement, and all rights, save for those expressly granted hereunder, shall remain with AnApp Blockchain and its licensors. In addition, no licenses or immunities are granted to the combination of the Licensed Software with any other software or hardware not delivered by AnApp Blockchain under this Agreement.
+
+12.10 Attorney Fees
+
+The prevailing Party in any action to enforce this Agreement shall be entitled to recover its attorney’s fees and costs in connection with such action.
+
+12.11 Severability
+
+If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.
+
+DEFINITIONS
+
+“AnApp Blockchain for Device Creation” shall mean software components specific to embedded software development.
+
+ “Applications” shall mean Licensee's software products utilizing or created using the Licensed Software.
+
+“Contractor(s)” shall mean third party consultants, distributors and contractors performing services to a Party under applicable contractual arrangement.
+
+“Customer(s)” shall mean Licensee’s end users to whom Licensee, directly or indirectly, distributes copies of the Redistributables.
+
+“Deployment Platforms” shall mean operating systems specified in the License Certificate, in which the Redistributables can be distributed pursuant to the terms and conditions of this Agreement.
+
+“Designated User(s)” shall a Qualified User designated by the Licensee to use, modify and copy the Licensed Software pursuant to the license granted herein. 
+
+“Development License” shall mean the license needed by the Licensee for each Designated User to use the Licensed Software under the license grant described in Section 2.1 of this Agreement. Development Licenses are available separately for AnApp Blockchain for Application Development (desktop) and AnApp Blockchain for Device Creation (embedded) products, each product having its designated scope and purpose of use. Distribution Licenses are always connected to AnApp Blockchain for Device Creation product only.
+
+“Development Platforms” shall mean those operating systems specified in the License Certificate, in which the Licensed Software can be used under the Development License, but not distributed in any form or used for any other purpose.
+
+“Devices” shall mean hardware devices or products that 1) are manufactured and/or distributed by the Licensee or its Affiliates or Contractors, and (2)(i) incorporate or integrate the Redistributables or parts thereof; or (ii) do not incorporate or integrate the Redistributables at the time of distribution, but where, when used by a Customer, the main user interface or substantial functionality of such device is provided by Application(s) or otherwise depends on the Licensed Software. Devices shall be specified in Appendix 2 or in a quote.
+
+“Distribution License(s)” shall mean the license required for distribution of Redistributables in connection with Devices pursuant to license grant described in Section 2.3 of this Agreement.
+
+“Distribution License Packs” shall mean set of prepaid Distribution Licenses for distribution of Redistributables, as defined in AnApp Blockchain’s standard price list, quote, Purchase Order confirmation, as the case may be. 
+
+“Intellectual Property Rights” shall mean patents (including utility models), design patents, and designs (whether or not capable of registration), chip topography rights and other like protection, copyrights, trademarks, service marks, trade names, logos or other words or symbols and any other form of statutory protection of any kind and applications for any of the foregoing as well as any trade secrets.
+
+“License Certificate” shall mean a certificate generated by AnApp Blockchain for each Designated User respectively upon them downloading the Licensed Software. License Certificate will be available under respective Designated User’s account with AnApp Blockchain at www.iotw.io and it will specify the Designated User, the Development Platforms, Deployment Platforms and the License Term. The terms of the License Certificate are considered part of this Agreement and shall be updated from time to time to reflect any agreed changes to the foregoing terms relating to Designated User’s rights to the Licensed Software.
+
+“License Fee” shall mean the fee charged to the Licensee for rights granted under the terms of this Agreement.
+
+“License Term” shall mean the agreed validity period of the Development License of the respective Designated User, during which time the Designated User is entitled to use the Licensed Software, as set forth in the respective License Certificate.
+
+depending on which product(s) the Licensee has purchased under this Agreement,  as well as corresponding online or electronic documentation, associated media and printed materials, including the source code, example programs and the documentation, licensed to the Licensee under this Agreement. Licensed Software does not include Third Party Software (as defined in Section 3) or Open Source AnApp Blockchain. AnApp Blockchain may, in the course of its development activities, at its free and absolute discretion and without any obligation to send or publish any notifications to the Licensee or in general, make changes, additions or deletions in the components and functionalities of the Licensed Software, provided that no such changes, additions or deletions will affect the already released version of the Licensed Software, but only upcoming version(s).  
+
+“Licensee” shall mean the individual or legal entity that is party to this Agreement, as identified on the signature page hereof.
+
+“Licensee’s Records” shall mean books and records that are likely to contain information bearing on Licensee’s compliance with this Agreement or the payments due to AnApp Blockchain under this Agreement, including, but not limited to: assembly logs, sales records and distribution records.
+
+“Modifications” means any bug-fixes, error corrections, patches or modifications to the Licensed Software, including without limitation changing the application programming interfaces or adding, changing or deleting any variable, method, or class signature in the Licensed Software and/or any inter-process protocols, services or standards in the Licensed Software libraries.
+
+“Online Services” shall mean any services or access to systems made available by AnApp Blockchain to the Licensee over the internet relating to the Licensed Software or for the purpose of use by the Licensee of the Licensed Software or Support. Use of any such Online Services is discretionary for the Licensee and some of them may be subject to additional fees.
+
+“Open Source AnApp Blockchain” shall mean the non-commercial AnApp Blockchain computer software products. For clarity, Open Source AnApp Blockchain shall not be provided nor governed under this Agreement.
+
+”Party” or “Parties” shall mean Licensee and/or AnApp Blockchain.
+
+“Qualified User(s)” shall mean the employee(s) of Licensee or Licensee’s Affiliates acting within the scope of their employment or Licensee's Contractors acting within the scope of their services for Licensee and on behalf of Licensee. 
+
+ “Renewal Term” shall mean an extension of previous License Term as agreed between the Parties.
+
+“Submitted Modifications” shall have the meaning as set forth in Section 1.2.
+
+“Support” shall mean standard developer support that is provided by AnApp Blockchain to assist Designated Users in using the Licensed Software in accordance with AnApp Blockchain’s standard support terms and as further defined in Section 7 hereunder. 
+
+“Taxes” shall have the meaning set forth in Section 8.5.
+
+“Term” shall have the meaning set forth in Section 10.
+
+ "Third Party Software " shall have the meaning set forth in Section 3.
+
+“Updates” shall mean a release or version of the Licensed Software containing bug fixes, error corrections and other changes that are generally made available to users of the Licensed Software that have contracted for Support. Updates are generally depicted as a change to the digits following the decimal in the Licensed Software version number. AnApp Blockchain shall make Updates available to the Licensee under the Support. Updates shall be considered as part of the Licensed Software hereunder.
+
+ “Upgrades” shall mean a release or version of the Licensed Software containing enhancements and new features and are generally depicted as a change to the first digit of the Licensed Software version number. In the event Upgrades are provided to the Licensee under this Agreement, they shall be considered as part of the Licensed Software hereunder.
